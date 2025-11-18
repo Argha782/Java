@@ -16,7 +16,7 @@ public class Loops {
 
         // Do-While Loop
         System.out.println("\nDo-While Loop:");
-        int k = 1;
+        int k = 4;
         do {
             System.out.println("Iteration: " + k);
             k++;
